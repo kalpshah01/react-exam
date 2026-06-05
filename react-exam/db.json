@@ -1,0 +1,27 @@
+{
+  "users": [],
+  "products": [
+    {
+      "title": "pens",
+      "price": "201",
+      "image": "img2.png",
+      "category": "pens",
+      "id": "axeo2AmdIFs"
+    },
+    {
+      "title": "pencil",
+      "price": "120",
+      "image": "img1.png",
+      "category": "pencil",
+      "id": "0h1PMFDCzZ4"
+    },
+    {
+      "title": "ball",
+      "price": "100",
+      "image": "img2.png",
+      "category": "sport",
+      "id": "noQDoPgwzsY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
